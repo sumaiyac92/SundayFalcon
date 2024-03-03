@@ -1,10 +1,16 @@
 package com.upskill.java_5;
 
-public class interfaceClass {
+public interface interfaceClass {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public abstract void iDoor();
+	
+	public abstract int iWheel();
+	
+	public abstract String iEngine();
+	
+	
+	
 
 	}
 
-}
+

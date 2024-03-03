@@ -1,9 +1,8 @@
 package com.upskill.assignment_3;
 
 public class Assignment_3_1 {
-	
+	import.java.utill.Scanner;
 
-	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 // Write a class name BankAccount which has savings and checking class.    
 		//* BankAccount class that has a name and an initial amount, 
@@ -20,7 +19,10 @@ public class Assignment_3_1 {
 		//​​​​​​​​​​​​​​​f.​new amount after deposit: 26000
 		//​​​​​​​​​​​​​​​g.​new amount after withdrawal: 23000     */
 		
-		
+		String accname;
+		float amount;
+		boolean bool;
+		scanner s = new Scanner(System.in);
 		
 		
 	}
