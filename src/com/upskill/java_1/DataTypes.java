@@ -7,8 +7,8 @@ public class DataTypes {
 System.out.println("Hello world, This is Sumaiya");
 
 
-int a =30;
-int b =55;
+int a =11;
+int b =50;
 int c = a+b;
 System.out.println(c);
 
