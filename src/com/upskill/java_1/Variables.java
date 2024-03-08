@@ -8,7 +8,7 @@ public class Variables {
 	static String region = "North America";				//Static variable - variables belong to class and don't required creating object
 		
 	public static void main(String[] args) {
-		String city = "New York";					//Local variable - variables declared in methods
+		String city = "NYC";					//Local variable - variables declared in methods
 		System.out.println(city);
 		String police = "NYPD";
 		int zipcode = 10075;
